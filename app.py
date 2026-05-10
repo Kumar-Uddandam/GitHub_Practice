@@ -1,1 +1,1 @@
-print("Welcome to the Training App!")
+print("Welcome to Git Training")
